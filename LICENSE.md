@@ -1,4 +1,4 @@
-# 
+# vip dex sniper bot Strategy | MEV-strategies + token-launch-monitoring is the best dex sniper bot, featuring MEV-strategies and token-launch-monitoring. Smart, fast, and optimized
 
 
 
